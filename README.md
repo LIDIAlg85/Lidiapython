@@ -5,6 +5,7 @@
 - lidialedezmag85@gmail.com
 
 # Actividades 3 -Elementos basicos parte 1
+## Tarea 1-Elementos Basicos
 
 -p001-hola-mundo.py
 -p002-area-circulo.py
@@ -15,12 +16,14 @@
 -p007-entrada-multiple.py
 -p008-entrada-con-espacio.py
 -poo8-entrada- multiple.py
+## Acividad 3 -Elementos basicos parte 2
 -p009-promedio-de-calificaciones.py 
 -p010-operaciones-matematicas.py 
 -p011-operadores-asignacion.py
 -p012-funcion-matematicas-equacion.py 
 -p013-funciones-matematicas-precios.py 
 -p014-funciones-trigonometricas.py
+## Acividad 4 -Elementos basicos parte 3
 -p015-hipotenusa-triangulo.py
 -p016-tercer-angulo.py
 -p017-convertir-temperatura.py
@@ -29,12 +32,19 @@
 -p020-numero-suerte.py
 -p021-distancia-entre-puntos.py
 -p022-resistencia-equivalente-paralelo.py
+## Acividad 5 - Ejecucion condicional parte 1
 -p023-verificar-numero.py
 -p024-verificar-numero-v2.py
 -p025-verificar-suma.py
--p026–convertir-temperaturas-v2.py
+-p026-convertir-temperaturas-v2.py
 -p027-calcular-paga-extra.py
 -p028-retira-cuenta.py
 -p029-calculadora-descuentos.py
-     
+## Acividad 6 - Ejecucion condicional parte 2
+-p030--verifica-suma.py
+-p031-2da-ley-de-newton.py
+-p032-aceptar-estudiante.py
+-p033-aceptar-estudiante-v2.py
+-p034-tipo-angulo.py
+-p035-tipo-triangulo.py    
      
