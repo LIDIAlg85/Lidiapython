@@ -32,7 +32,7 @@
 -p020-numero-suerte.py
 -p021-distancia-entre-puntos.py
 -p022-resistencia-equivalente-paralelo.py
-## Acividad 5 - Ejecucion condicional parte 1
+## Acividad 5 - Ejecución condicional parte 1
 -p023-verificar-numero.py
 -p024-verificar-numero-v2.py
 -p025-verificar-suma.py
@@ -40,11 +40,19 @@
 -p027-calcular-paga-extra.py
 -p028-retira-cuenta.py
 -p029-calculadora-descuentos.py
-## Acividad 6 - Ejecucion condicional parte 2
+## Acividad 6 - Ejecución condicional parte 2
 -p030--verifica-suma.py
 -p031-2da-ley-de-newton.py
 -p032-aceptar-estudiante.py
 -p033-aceptar-estudiante-v2.py
 -p034-tipo-angulo.py
--p035-tipo-triangulo.py    
-     
+-p035-tipo-triangulo.py 
+## Actividad 7-- Ejecución condicional parte 3 
+-p036-numeros-consecutivos.py
+-p037-numero-mayor.py
+-p038-dia-semana.py
+-p039-numeros-romanos.py
+-p040-calculo-notas.py
+-p041-aceptar-estudiante-v2
+-p042-precio-entrada-cine.py
+-p043-calculadora-anio-bisiesto.py     
