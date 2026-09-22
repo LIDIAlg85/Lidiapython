@@ -103,3 +103,5 @@
 - p082-cuadro-hueco-caracter.py
 - p083-rombo-caracter.py
 - p084-triangulo-invertido-numeros.py
+## examen 1
+- p085-simulador-venta-combustible.py
