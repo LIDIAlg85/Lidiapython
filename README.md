@@ -105,3 +105,13 @@
 - p084-triangulo-invertido-numeros.py
 ## examen 1
 - p085-simulador-venta-combustible.py
+## Actividad 12 Listas - Parte 1
+- p086-acceder-lista.py
+- p087-modificar-lista.py
+- p088-agregar-lista.py
+- p089-eliminar-lista.py
+- p090-iterar-lista.py
+- p091-lista-de-gastos.py
+- p091-lista-de-gastos_b.py
+
+
