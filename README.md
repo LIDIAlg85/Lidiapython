@@ -159,3 +159,6 @@
 ## Actividad 18 - Conjuntos
 - p128-municipios.py
 - p129-operaciones-conjuntos.py
+## Actividad 19- Tarea 7 - Conjuntos
+- p130-conjunto-personas.py
+- p131-conjunt-numeros.py
