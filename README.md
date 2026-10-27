@@ -159,6 +159,9 @@
 ## Actividad 18 - Conjuntos
 - p128-municipios.py
 - p129-operaciones-conjuntos.py
-## Actividad 19- Tarea 7 - Conjuntos
+## Actividad 18- Tarea 7 - Conjuntos
 - p130-conjunto-personas.py
-- p131-conjunt-numeros.py
+- p131-conjunto-numeros.py
+## Actividad 19 - Tuplas
+- p132-coordenadas.py
+- p133-alumnos-tuplas.py
